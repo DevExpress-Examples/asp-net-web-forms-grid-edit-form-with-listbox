@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Grid View for ASP.NET Web Forms - How to use ASPxListBox to editing grid data inside the grid edit form
+# Grid View for ASP.NET Web Forms - How to use ASPxListBox to edit grid data inside the grid edit form
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2625/)**
 <!-- run online end -->
