@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to use ASPxListBox to edit grid data inside the grid edit form
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543494/)**
-<!-- run online end -->
 
 This example shows how to use the [ASPxListBox](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxListBox) control inside the [edit form](https://docs.devexpress.com/AspNet/3710/components/grid-view/concepts/edit-data/edit-form).
 
